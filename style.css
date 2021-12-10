@@ -1,5 +1,6 @@
 body {
     background-color: brown;
     text-shadow: chartreuse;
-    box-shadow: 0vh;
+    box-shadow: 0vh; grid-template: inherit; justify-self: unset;user-select: none;overflow: none;
+    min-height: 0vh; 
 }
